@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/scopedcss/projectbundle/BlazingBlog.WebUI.Server.bundle.scp.css",
+      "PackagePath": "staticwebassets/BlazingBlog.WebUI.Server.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlazingBlog.WebUI.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlazingBlog.WebUI.Server.props",
+      "PackagePath": "build\\BlazingBlog.WebUI.Server.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlazingBlog.WebUI.Server.props",
+      "PackagePath": "buildMultiTargeting\\BlazingBlog.WebUI.Server.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlazingBlog.WebUI.Server.props",
+      "PackagePath": "buildTransitive\\BlazingBlog.WebUI.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BlazingBlog.WebUI.Server.props" />
+</Project>

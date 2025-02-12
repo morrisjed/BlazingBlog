@@ -27,3 +27,4 @@
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.pdb
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.genruntimeconfig.cache
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/ref/BlazingBlog.WebUI.Server.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.sourcelink.json

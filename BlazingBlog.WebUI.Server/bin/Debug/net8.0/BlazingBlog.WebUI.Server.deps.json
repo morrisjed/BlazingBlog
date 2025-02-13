@@ -7,14 +7,57 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "BlazingBlog.WebUI.Server/1.0.0": {
+        "dependencies": {
+          "BlazingBlog.Application": "1.0.0",
+          "BlazingBlog.Domain": "1.0.0"
+        },
         "runtime": {
           "BlazingBlog.WebUI.Server.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.225.6610"
+          }
+        }
+      },
+      "BlazingBlog.Application/1.0.0": {
+        "dependencies": {
+          "BlazingBlog.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
+        },
+        "runtime": {
+          "BlazingBlog.Application.dll": {}
+        }
+      },
+      "BlazingBlog.Domain/1.0.0": {
+        "runtime": {
+          "BlazingBlog.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BlazingBlog.WebUI.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MNe7GSTBf3jQx5vYrXF0NZvn6l7hUKF6J54ENfAgCO8y6xjN1XUmKKWG464LP2ye6QqDiA1dkaWEZBYnhoZzjg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.2",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+    },
+    "BlazingBlog.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazingBlog.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

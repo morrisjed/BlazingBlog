@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mFMYu2TRlW4=",
+  "dgSpecHash": "Hp/OJtaY1jo=",
   "success": true,
   "projectFilePath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/slothmanking/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

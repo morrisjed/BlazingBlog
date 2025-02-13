@@ -1,0 +1,12 @@
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/bin/Debug/net8.0/BlazingBlog.Domain.deps.json
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/bin/Debug/net8.0/BlazingBlog.Domain.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/bin/Debug/net8.0/BlazingBlog.Domain.pdb
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.AssemblyInfoInputs.cache
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.AssemblyInfo.cs
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.csproj.CoreCompileInputs.cache
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.sourcelink.json
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/refint/BlazingBlog.Domain.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/BlazingBlog.Domain.pdb
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/obj/Debug/net8.0/ref/BlazingBlog.Domain.dll

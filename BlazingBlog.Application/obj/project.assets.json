@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj",
-      "projectName": "BlazingBlog.WebUI.Server",
-      "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj",
+      "projectUniqueName": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj",
+      "projectName": "BlazingBlog.Application",
+      "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj",
       "packagesPath": "/Users/slothmanking/.nuget/packages/",
-      "outputPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/",
+      "outputPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/slothmanking/.nuget/NuGet/NuGet.Config"
@@ -83,9 +83,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

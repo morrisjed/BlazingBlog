@@ -1,9 +1,71 @@
 {
   "format": 1,
   "restore": {
-    "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj": {}
+    "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj": {}
   },
   "projects": {
+    "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj",
+        "projectName": "BlazingBlog.Application",
+        "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/BlazingBlog.Application.csproj",
+        "packagesPath": "/Users/slothmanking/.nuget/packages/",
+        "outputPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/slothmanking/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/BlazingBlog.Domain.csproj": {
+                "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/BlazingBlog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/slothmanking/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/BlazingBlog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -54,71 +116,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/Users/slothmanking/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj",
-        "projectName": "BlazingBlog.WebUI.Server",
-        "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/BlazingBlog.WebUI.Server.csproj",
-        "packagesPath": "/Users/slothmanking/.nuget/packages/",
-        "outputPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/slothmanking/.nuget/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/BlazingBlog.Domain.csproj": {
-                "projectPath": "/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.Domain/BlazingBlog.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

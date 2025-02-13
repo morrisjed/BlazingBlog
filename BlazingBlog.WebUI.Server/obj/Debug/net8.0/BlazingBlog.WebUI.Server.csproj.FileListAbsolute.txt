@@ -28,3 +28,10 @@
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.genruntimeconfig.cache
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/ref/BlazingBlog.WebUI.Server.dll
 /Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.sourcelink.json
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/bin/Debug/net8.0/BlazingBlog.Application.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/bin/Debug/net8.0/BlazingBlog.Domain.dll
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/bin/Debug/net8.0/BlazingBlog.Application.pdb
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/bin/Debug/net8.0/BlazingBlog.Domain.pdb
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingBlog.WebUI.Server.csproj.AssemblyReference.cache
+/Users/slothmanking/Documents/Projects/BlazingBlog/BlazingBlog.WebUI.Server/obj/Debug/net8.0/BlazingB.B415A16C.Up2Date

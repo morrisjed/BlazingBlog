@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingBlog.WebUI.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4537437cf24b678c2fdd8abe947eac99efda98a")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ade55c37a73909e5a42a6833fb291f50f4ecb9bd")]
->>>>>>> feature-clean-architecture
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d58d91f769f8dcdd125f23dc697142a909884bc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingBlog.WebUI.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingBlog.WebUI.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
